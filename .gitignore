@@ -1,0 +1,4 @@
+pyvenv.cfg
+bin
+__pycache__
+fastapi-env
